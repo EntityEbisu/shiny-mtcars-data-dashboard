@@ -83,6 +83,6 @@ To run this application on your local machine, follow these steps:
 ## ✍️ Author
 
 * **[Nguyen Trong Minh]**
-    * [Your GitHub Profile Link (e.g., `https://github.com/EntityEbisu`)]
+    * [GitHub Profile Link](https://github.com/EntityEbisu/)
 
 ---
