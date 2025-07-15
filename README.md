@@ -16,7 +16,6 @@ This is an interactive R Shiny web application designed for **comprehensive expl
 * **Distribution of Categorical Variables:**
     * **Bar Charts:** Visualize the frequency count for each category of the selected variable.
     * **Pie Charts:** Display the proportion of each category, offering a clear view of part-to-whole relationships.
-    * **Consistent Categorical Coloring:** Ensures that the same category (e.g., '4' cylinders) uses the same color across all relevant plots (bar and pie charts) for improved clarity.
 * **Plots for Observing Data Correlation:**
     * **Scatter Plots:** Explore bivariate relationships between continuous variables (e.g., `mpg` vs. `wt`), with points optionally colored by a categorical variable. A linear trend line helps visualize overall correlation.
     * **Correlation Matrix (Correlogram):** Provides an overview of pairwise correlations among multiple continuous variables in the dataset, using visual cues (circles) to represent strength and direction.
