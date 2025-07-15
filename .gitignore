@@ -1,0 +1,11 @@
+# RStudio / R specific files
+.Rhistory
+.RData
+.Rproj.user/
+
+# renv specific ignores (the library itself)
+renv/library/
+renv/staging/
+
+# rsconnect deployment files
+rsconnect/
