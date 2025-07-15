@@ -57,7 +57,7 @@ To run this application on your local machine, follow these steps:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/EntityEbisu/shiny-mtcars-data-dashboard.git](https://github.com/EntityEbisu/shiny-mtcars-data-dashboard.git)
+    git clone https://github.com/EntityEbisu/shiny-mtcars-data-dashboard.git
     cd shiny-mtcars-data-dashboard
     ```
 
