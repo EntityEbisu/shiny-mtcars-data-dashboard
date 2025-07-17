@@ -1,12 +1,12 @@
 # shiny-mtcars-data-dashboard
 
-## 📊 Overview
+##  Overview
 
 This is an interactive R Shiny web application designed for **comprehensive exploratory data analysis (EDA)** of the well-known `mtcars` dataset. It provides a user-friendly interface to visualize relationships and distributions of both numerical and categorical variables through an expanded set of interactive plot types, making data patterns and insights easy to discover.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Dynamic Variable Selection:** Choose any continuous or categorical variable from the `mtcars` dataset for analysis.
 * **Distribution of Numerical Variables:**
@@ -23,7 +23,7 @@ This is an interactive R Shiny web application designed for **comprehensive expl
 
 ---
 
-## 💻 Technologies Used
+##  Technologies Used
 
 * **R**: The core programming language.
 * **Shiny**: For building the interactive web application.
@@ -37,7 +37,7 @@ This is an interactive R Shiny web application designed for **comprehensive expl
 
 ---
 
-## 🚀 Live Application
+##  Live Application
 
 Experience the app in action!
 
@@ -80,7 +80,7 @@ To run this application on your local machine, follow these steps:
         ```
     * The application should launch in your default web browser or RStudio's Viewer pane.
 
-## ✍️ Author
+##  Author
 
 * **[Nguyen Trong Minh]**
     * [GitHub Profile Link](https://github.com/EntityEbisu/)
